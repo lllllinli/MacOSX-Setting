@@ -95,6 +95,24 @@ $ sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/insta
   
   1.zsh-completions 自動補全
 
+##Vim 設定 (選配)
+
++ Vundle - Vim 套件管理工具
+
+1.git clone
+
+```
+$ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+```
+
+2.在~/.vimrc 檔，添加。
+
+```
+vim +PluginInstall +qall
+```
+
+
+(官方Github)[https://github.com/VundleVim/Vundle.vim]
 
 
   
