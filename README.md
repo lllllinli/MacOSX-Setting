@@ -90,6 +90,15 @@ $ sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/insta
     plugins=(git bundler osx rake ruby)
     # 檢查 plugins 資料夾
     ```
+    
++ zsh plugin 介紹
+  
+  1.zsh-completions 自動補全
+
+
+
+  
+
 
 
   
