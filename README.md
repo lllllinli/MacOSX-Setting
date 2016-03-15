@@ -11,7 +11,7 @@
 
 + homebrew - 套件管理工具
 
-[install](http://brew.sh/index_zh-tw.html)
+[官網](http://brew.sh/index_zh-tw.html)
 
 ```
 $ curl -L https://get.rvm.io | sudo bash -s stable
@@ -29,11 +29,11 @@ $ brew install wget
 $ curl -L https://get.rvm.io | sudo bash -s stable
 ```
 
-(官網)[https://rvm.io/]
+[官網](https://rvm.io/)
 
 + nodejs
 
-(download)[https://nodejs.org/en/]
+[download](https://nodejs.org/en/)
 
 + nvm - nodejs 版本管理工具
 
@@ -41,7 +41,7 @@ $ curl -L https://get.rvm.io | sudo bash -s stable
 $ wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh | bash
 ```
 
-(官網)[https://github.com/creationix/nvm]
+[官網](https://github.com/creationix/nvm)
 
 
 
