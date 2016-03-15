@@ -4,14 +4,14 @@
 
 + iTerm2 - 終端機 
 
-[download](https://www.iterm2.com/)
+[官網下載](https://www.iterm2.com/)
 
 
 ##命令端安裝
 
 + homebrew - 套件管理工具
 
-[官網](http://brew.sh/index_zh-tw.html)
+[官網下載](http://brew.sh/index_zh-tw.html)
 
 ```
 $ curl -L https://get.rvm.io | sudo bash -s stable
@@ -29,11 +29,11 @@ $ brew install wget
 $ curl -L https://get.rvm.io | sudo bash -s stable
 ```
 
-[官網](https://rvm.io/)
+[官網下載](https://rvm.io/)
 
 + nodejs
 
-[download](https://nodejs.org/en/)
+[官網下載](https://nodejs.org/en/)
 
 + nvm - nodejs 版本管理工具
 
@@ -41,7 +41,7 @@ $ curl -L https://get.rvm.io | sudo bash -s stable
 $ wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh | bash
 ```
 
-[官網](https://github.com/creationix/nvm)
+[官網下載](https://github.com/creationix/nvm)
 
 
 
