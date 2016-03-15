@@ -71,7 +71,12 @@ $ sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/insta
 
 
 參考 ~/.oh-my-zsh 資料夾 
-
+  
+  - 修改 ZSH 關鍵字
+  ```
+  export ZSH=${HOME}/.oh-my-zsh
+  ```
+  
   - 修改 theme 樣式
     ```
     ZSH_THEME="robbyrussell"
