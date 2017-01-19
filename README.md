@@ -29,7 +29,7 @@ $ curl -L https://get.rvm.io | sudo bash -s stable
 + homebrew - 套件管理工具
 
 ```
-$ curl -L https://get.rvm.io | sudo bash -s stable
+$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
 [官網下載](http://brew.sh/index_zh-tw.html)
