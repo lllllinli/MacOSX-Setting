@@ -58,6 +58,13 @@ $ wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh 
 $ chsh -s /bin/zsh # 設定為 default shell
 ```
 
+>顯示 Mac OS X 隱藏檔，指令。
+
+```
+//https://www.minwt.com/mac/11185.html
+$defaults write com.apple.finder AppleShowAllFiles TRUE && killall Finder
+```
+
 + oh my zsh - zsh 的套件包 
 
 讓 shell 有美美的顏色，快速完成等 plugin
