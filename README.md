@@ -16,6 +16,16 @@
 
 ##命令端安裝
 
++ rvm - ruby 版本控制
+
+```
+$ curl -L https://get.rvm.io | sudo bash -s stable
+```
+
+[官網下載](https://rvm.io/)
+
+>注意！ homebrew 套件使用，ruby 開發，請使用 rvm 安裝最新版本。
+
 + homebrew - 套件管理工具
 
 ```
@@ -29,14 +39,6 @@ $ curl -L https://get.rvm.io | sudo bash -s stable
 ```
 $ brew install wget
 ```
-
-+ rvm - ruby 版本控制
-
-```
-$ curl -L https://get.rvm.io | sudo bash -s stable
-```
-
-[官網下載](https://rvm.io/)
 
 + nodejs
 
