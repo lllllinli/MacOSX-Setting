@@ -61,8 +61,7 @@ $ chsh -s /bin/zsh # 設定為 default shell
 >顯示 Mac OS X 隱藏檔，指令。
 
 ```
-//https://www.minwt.com/mac/11185.html
-$defaults write com.apple.finder AppleShowAllFiles TRUE && killall Finder
+$ defaults write com.apple.finder AppleShowAllFiles TRUE && killall Finder
 ```
 
 + oh my zsh - zsh 的套件包 
@@ -103,6 +102,8 @@ $ sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/insta
 + zsh plugin 介紹
   
   1.zsh-completions 自動補全
+  
+(oh my zsh - wiki)[https://github.com/robbyrussell/oh-my-zsh/wiki]
 
 ##Vim 設定 (選配)
 
@@ -121,8 +122,8 @@ vim +PluginInstall +qall
 ```
 
 
-(官方Github)[https://github.com/VundleVim/Vundle.vim]
-
+* (官方Github)[https://github.com/VundleVim/Vundle.vim]
+* (mac-dev-setup)[https://github.com/nicolashery/mac-dev-setup]
 
   
 
